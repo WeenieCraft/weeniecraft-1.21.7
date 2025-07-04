@@ -16,6 +16,11 @@ hash = "176f6b96552df6add442004d4166e4e96700faf98c61791f08794401c7df5279"
 metafile = true
 
 [[files]]
+file = "mods/cinchs-villager-statues.pw.toml"
+hash = "8ad0117829771c3d8680b5c40ce55383870dd0b41438f15c66a49aeb37d77280"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2ffba149ee8a8c283ec050c1ad5b5e5ef930854443f5b52fc3ef233d877a6253"
 metafile = true
@@ -36,6 +41,11 @@ hash = "761364f5dcee2f76be045ef159be4c6c3c0aeeb485ca55ff41a566fd0ab09038"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "3b5216aff8280ce0dfe5210f72e9f747eb588fd9ff132061db5c653fadb211ed"
+metafile = true
+
+[[files]]
 file = "mods/elytra-vaults-atlasplays.pw.toml"
 hash = "1fefa2c8d5337c8cea1057df7adef0df46ead46338526d7d816306fbe1c47192"
 metafile = true
@@ -43,6 +53,21 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "34a7b0de8bed4ca7f25b836d6049d55ae2e6e89c5bf2dd666a86cef061bb8a86"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "25a531a7a8b8a2d65c8a475bcde6a92bc9aec70c04125fcf6d48fdadf6da8c01"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "83d5a7d458678120cea88fb15ab667339b767a4f17a3ed87f4dbd0a5c0411655"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "13dfd2b000b0dc430714b491fbb8e33b8d67074e459e2f981bfd8be04686bc0e"
 metafile = true
 
 [[files]]
@@ -113,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8d8fdff1797f39cba35273a7cfa73e7e454636f373d9669b085bcc0a1027722d"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "a3e1422cc710ba3d66f4191cbc4cda94ab5f77f912339fd1d49a89bb927b5cd7"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "5243d69e1f15aaf39f8f9fe7c3b41cadb22918f60dc98126cf40afa428674e6a"
 metafile = true
 
 [[files]]

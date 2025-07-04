@@ -1,0 +1,13 @@
+name = "Cinch's Villager Statues"
+filename = "cinchsvillagerstatues-[Forge-Fabric-1.21.x]-3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ryyk30hM/versions/cCeCur8H/cinchsvillagerstatues-%5BForge-Fabric-1.21.x%5D-3.0.jar"
+hash-format = "sha1"
+hash = "5a9067f6ced91700e78866589e94900744ef2a4d"
+
+[update]
+[update.modrinth]
+mod-id = "Ryyk30hM"
+version = "cCeCur8H"
