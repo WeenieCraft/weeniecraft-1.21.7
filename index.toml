@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "dc4974ae5c784bcbbce60366e6feb77dff4390d7fe3e821fe04cd5663486953e"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "f5a4fcd5157bc970398e6092517591033ea32ce3e69f786c08dd2d83fc1f1ed9"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "09753133a80aa56c3343cbe65ea241368183899d3df1fcc4497bbff22d6121be"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7281405b333dab75aa017115038c93cde1f17c1fb22bf891780fcdfc32d86b5e"
 metafile = true
