@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7281405b333dab75aa017115038c93cde1f17c1fb22bf891780fcdfc32d86b5e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2b04d02dab415870350926a6e7aa253cbb693153e7a852933341229934dce52b"
 metafile = true
@@ -48,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "00ec95bb4a7b365844461664232d8c213973f54ec72af03fec10f91708ebf36e"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "7cfb54cf4809e871d2c84fc945ad5969129a1a72f143e21e5ca7752477b99fa1"
 metafile = true
 
 [[files]]
