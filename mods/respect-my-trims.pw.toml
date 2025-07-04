@@ -1,0 +1,13 @@
+name = "Respect My Trims"
+filename = "respectmytrims-1.1.0+mc1.21.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/beDOFui2/versions/1mGTlkZN/respectmytrims-1.1.0%2Bmc1.21.5.jar"
+hash-format = "sha1"
+hash = "b76665e88d422b010de03a56f2075cae71a704d7"
+
+[update]
+[update.modrinth]
+mod-id = "beDOFui2"
+version = "1mGTlkZN"

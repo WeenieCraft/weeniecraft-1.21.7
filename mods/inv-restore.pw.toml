@@ -1,0 +1,13 @@
+name = "InvRestore"
+filename = "invrestore-0.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/neH5ooPP/versions/E1od7pej/invrestore-0.1.4.jar"
+hash-format = "sha1"
+hash = "4f7fe4426edfeba7e9b61e6840284008ed07c85d"
+
+[update]
+[update.modrinth]
+mod-id = "neH5ooPP"
+version = "E1od7pej"
